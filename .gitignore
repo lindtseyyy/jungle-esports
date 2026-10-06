@@ -1,0 +1,57 @@
+# Dependencies and build output
+node_modules/
+dist/
+.vite/
+.cache/
+*.tsbuildinfo
+
+# Local environment and private keys
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Test output (keep checked-in screenshot baselines)
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+coverage/
+
+# Logs and tool caches
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.eslintcache
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.tmp
+
+# Blender authoring backups and Python bytecode
+*.blend[0-9]*
+__pycache__/
+*.py[cod]
+
+# Local reference videos (keep stills used by the development lab)
+/reference_video/*.mp4
+/reference_video/*.mkv
+/reference_video/*.mov
+/reference_video/*.webm
+
+# Generated artwork review previews (keep source artwork and runtime assets)
+/assets-src/2d/**/*-preview.gif
+/assets-src/2d/**/*-preview.png
+/assets-src/2d/**/previews/

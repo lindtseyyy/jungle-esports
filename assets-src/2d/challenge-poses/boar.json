@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3,
+    "left": 21,
+    "top": 157,
+    "width": 635,
+    "height": 289,
+    "count": 94579,
+    "kind": "paddle",
+    "frame": 0,
+    "worldHeight": 114,
+    "worldWidth": 250,
+    "anchor": {
+      "x": 0,
+      "y": 1
+    }
+  },
+  {
+    "id": 7,
+    "left": 15,
+    "top": 650,
+    "width": 640,
+    "height": 271,
+    "count": 88411,
+    "kind": "paddle",
+    "frame": 1,
+    "worldHeight": 106,
+    "worldWidth": 250,
+    "anchor": {
+      "x": 0,
+      "y": 1
+    }
+  },
+  {
+    "id": 1,
+    "left": 620,
+    "top": 11,
+    "width": 406,
+    "height": 535,
+    "count": 91444,
+    "kind": "hang",
+    "frame": 0,
+    "worldHeight": 115,
+    "worldWidth": 87,
+    "anchor": {
+      "x": 0.08932697816368822,
+      "y": 0.035
+    }
+  },
+  {
+    "id": 5,
+    "left": 672,
+    "top": 504,
+    "width": 350,
+    "height": 496,
+    "count": 83874,
+    "kind": "hang",
+    "frame": 1,
+    "worldHeight": 115,
+    "worldWidth": 81,
+    "anchor": {
+      "x": 0.11275417719958072,
+      "y": 0.035
+    }
+  },
+  {
+    "id": 2,
+    "left": 1100,
+    "top": 118,
+    "width": 389,
+    "height": 343,
+    "count": 88678,
+    "kind": "tuck",
+    "frame": 0,
+    "worldHeight": 80,
+    "worldWidth": 91,
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  {
+    "id": 6,
+    "left": 1048,
+    "top": 644,
+    "width": 477,
+    "height": 289,
+    "count": 82329,
+    "kind": "tuck",
+    "frame": 1,
+    "worldHeight": 80,
+    "worldWidth": 132,
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5
+    }
+  }
+]

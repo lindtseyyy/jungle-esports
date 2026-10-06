@@ -1,0 +1,33 @@
+{
+  "name": "boar",
+  "generator": "Higgsfield",
+  "model": "seedream_v5_lite",
+  "jobId": "4c5f38ef-37e7-4006-a5ac-7ad83df74f00",
+  "frames": 11,
+  "sourceWidth": 1336,
+  "sourceHeight": 660,
+  "groundY": 640,
+  "direction": "left",
+  "loop": true,
+  "frameDelayMs": 60,
+  "files": [
+    "run/run_00.png",
+    "run/run_01.png",
+    "run/run_02.png",
+    "run/run_03.png",
+    "run/run_04.png",
+    "run/run_05.png",
+    "run/run_06.png",
+    "run/run_07.png",
+    "run/run_08.png",
+    "run/run_09.png",
+    "run/run_10.png"
+  ],
+  "keyedPixels": 3640978,
+  "sourceSheetSize": {
+    "width": 2848,
+    "height": 1600
+  },
+  "processing": "Green chroma key and edge despill; complete animal components assigned to the 4×3 grid with padding to preserve tails crossing nominal cell lines; one fixed scale and translation for all 11 frames.",
+  "prompt": "REPLACE EVERY LION in the reference with a BROWN WILD BOAR, dark chestnut bristly fur, broad barrel torso, short strong legs, dark cloven hooves, long blunt snout, two cream tusks, small pointed ears, short thin tail. A brown boar, not a pink pig, not a lion. There must be ZERO LIONS in the result. The new animal must be unmistakably BOAR in ALL eleven poses.\nCreate a traditional hand-painted 2D CARTOON running animation sprite sheet matching the reference art: thin dark outlines, warm fur, painterly cel shadows, cream highlights, darker far-side limbs, expressive animated face. Use the reference ONLY for its 11 sequential running poses and 4-column by 3-row layout. Eleven animals total, each the same individual in successive leg positions. Last cell, bottom right, EMPTY. Read left to right, top to bottom. Each of the 12 cells is exactly equal sized. No grid or labels.\nAll face LEFT in strict side view, fixed size and horizontal center, fixed contact baseline, running in place. Full animal and tail inside each cell with generous margin. Distinct poses: extended airborne leap; forelegs descending; front contact; weight on front; legs gathered; compressed airborne tuck; rear legs reaching under; hind contact; hind push-off; forelegs reaching ahead; long extension returning to first. Natural body bounce, squash/stretch, fur and tail follow-through, four legs accounted for. Heavy powerful compact boar gallop with bouncing bristles.\nBACKGROUND: completely flat pure chroma green #00FF00 everywhere outside the animals, including empty cell. No shadows, ground, texture, gradient, scenery, lettering, numbers or watermark. Sharp clean animal edges."
+}

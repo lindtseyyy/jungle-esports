@@ -1,0 +1,20 @@
+import type { Anatomy } from '../types';
+export const anatomy: Anatomy = {
+  name: 'warthog',
+  coat: '#807568',
+  shadow: '#443D34',
+  belly: '#B5A48A',
+  height: 0.7,
+  length: 140,
+  head: [-63, -57],
+  headScale: 0.78,
+  shoulder: [-44, -40],
+  hip: [48, -41],
+  upper: 18,
+  lower: 17,
+  paw: 8,
+  legWidth: 12,
+  tail: 64,
+  tailBones: 4,
+  strideLength: 100,
+};

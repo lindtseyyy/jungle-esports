@@ -1,0 +1,28 @@
+{
+  "name": "dog",
+  "generator": "OpenAI built-in image generator",
+  "tool": "image_gen",
+  "originalCharacterGenerator": "the existing project run-cycle artwork",
+  "pose": "upright-biped-stand",
+  "direction": "front",
+  "supportFeet": 2,
+  "frames": 1,
+  "sourceWidth": 1336,
+  "sourceHeight": 660,
+  "groundY": 640,
+  "files": [
+    "stand/stand_00.png",
+    "dog-standing.png"
+  ],
+  "reference": "/home/lindtseyxvii/Codes/jungle-esports/assets-src/2d/dog/run/run_00.png",
+  "generatedSource": "dog-standing-generated.png",
+  "processing": "Preserve generated alpha; crop, scale to running-art height and center on baseline 640.",
+  "bounds": {
+    "left": 519,
+    "top": 67,
+    "width": 299,
+    "height": 573,
+    "count": 93230
+  },
+  "prompt": "Use case: precise-object-edit. Asset type: a transparent cartoon game sprite for the after-race display. Input image: the existing dog/wolf run-cycle character, used as the identity and drawing-style reference. Create ONE full-body upright dog standing on exactly TWO hind feet and facing DIRECTLY FRONT toward the viewer. Camera squarely centered in front; the head, muzzle, shoulders, chest, hips and both hind feet all face the camera. Both eyes and both pointed ears are clearly visible at equal scale. Preserve this specific wolf-like dog's blue-grey fur, fluffy neck and tail, dark hand-drawn ink outlines, lighter blue-grey near-side coat, darker far-side accents, black nose, small pink tongue and friendly expression. Preserve the traditional 2D animated drawing style with simple restrained shading; no photorealism. Both hind feet are separate and evenly planted on a common baseline. Both FOREPAWS hang loosely beside the torso, CLEARLY OFF THE GROUND, with natural cartoon animal paw shapes. Tail visible behind the torso and entirely off the ground. The body is upright, hips above the feet, not squatting or sitting. Genuine transparent background and clean anti-aliased alpha around fur and between the limbs; remove all grey background areas from the reference. One complete centered character on a wide canvas with generous empty margins; ears, paws and tail entirely visible. No profile, side view, three-quarter turn, turned head, angled torso, four-foot stance, sitting, walking, running, dancing, clothes, collar, human hands, scenery, floor, shadows, extra animals, text, signature or watermark."
+}

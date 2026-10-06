@@ -1,0 +1,12 @@
+{
+  "stage": "G1 blockout — not a final production animal",
+  "bodyLength": 2.3,
+  "shoulderHeight": 1.1,
+  "tailLength": 0.95,
+  "tailBones": 6,
+  "coat": "#C8873E",
+  "belly": "#E9C891",
+  "mane": "#5A2E1A",
+  "strideLength": 6.5,
+  "nominalSpeed": 15
+}

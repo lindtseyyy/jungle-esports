@@ -1,0 +1,83 @@
+[
+  {
+    "id": 4,
+    "left": 19,
+    "top": 97,
+    "width": 335,
+    "height": 165,
+    "count": 64751,
+    "role": "walk/0"
+  },
+  {
+    "id": 5,
+    "left": 532,
+    "top": 103,
+    "width": 335,
+    "height": 165,
+    "count": 61180,
+    "role": "walk/1"
+  },
+  {
+    "id": 1,
+    "left": 1039,
+    "top": 43,
+    "width": 335,
+    "height": 183,
+    "count": 69004,
+    "role": "jump/0"
+  },
+  {
+    "id": 9,
+    "left": 25,
+    "top": 430,
+    "width": 335,
+    "height": 161,
+    "count": 71017,
+    "role": "mud/0"
+  },
+  {
+    "id": 10,
+    "left": 550,
+    "top": 432,
+    "width": 335,
+    "height": 152,
+    "count": 68628,
+    "role": "mud/1"
+  },
+  {
+    "id": 8,
+    "left": 1082,
+    "top": 354,
+    "width": 335,
+    "height": 245,
+    "count": 55141,
+    "role": "clamber/0"
+  },
+  {
+    "id": 13,
+    "left": 38,
+    "top": 763,
+    "width": 335,
+    "height": 144,
+    "count": 56752,
+    "role": "raft/0"
+  },
+  {
+    "id": 14,
+    "left": 590,
+    "top": 773,
+    "width": 335,
+    "height": 119,
+    "count": 55687,
+    "role": "raft/1"
+  },
+  {
+    "id": 11,
+    "left": 1152,
+    "top": 653,
+    "width": 335,
+    "height": 361,
+    "count": 85652,
+    "role": "head"
+  }
+]

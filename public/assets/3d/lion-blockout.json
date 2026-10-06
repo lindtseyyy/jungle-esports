@@ -1,0 +1,10 @@
+{
+  "stage": "G1 blockout",
+  "noseOffset": 1.49,
+  "strideLength": 6.5,
+  "clips": [
+    "idle",
+    "gallop"
+  ],
+  "finalRigChecks": false
+}

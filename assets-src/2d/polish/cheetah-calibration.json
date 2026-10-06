@@ -1,0 +1,232 @@
+{
+  "reference": "run/run_04.png",
+  "targetWidth": 270,
+  "staticScale": 0.5625,
+  "motionScale": 0.6553398058252428,
+  "frames": [
+    {
+      "id": 1,
+      "left": 986,
+      "top": 59,
+      "width": 537,
+      "height": 201,
+      "count": 42968,
+      "role": "jump/0",
+      "scale": 0.5625,
+      "worldWidth": 302,
+      "worldHeight": 113,
+      "anchor": {
+        "x": 0,
+        "y": 1
+      }
+    },
+    {
+      "id": 4,
+      "left": 1063,
+      "top": 318,
+      "width": 458,
+      "height": 329,
+      "count": 45799,
+      "role": "clamber/0",
+      "scale": 0.5625,
+      "worldWidth": 258,
+      "worldHeight": 185,
+      "anchor": {
+        "x": 0,
+        "y": 1
+      }
+    },
+    {
+      "id": 2,
+      "left": 21,
+      "top": 106,
+      "width": 412,
+      "height": 184,
+      "count": 34187,
+      "role": "walk/0",
+      "scale": 0.6553398058252428,
+      "worldWidth": 270,
+      "worldHeight": 121,
+      "anchor": {
+        "x": 0,
+        "y": 1
+      }
+    },
+    {
+      "id": 3,
+      "left": 457,
+      "top": 107,
+      "width": 416,
+      "height": 180,
+      "count": 34799,
+      "role": "walk/1",
+      "scale": 0.6553398058252428,
+      "worldWidth": 273,
+      "worldHeight": 118,
+      "anchor": {
+        "x": 0,
+        "y": 1
+      }
+    },
+    {
+      "id": 1,
+      "left": 902,
+      "top": 105,
+      "width": 420,
+      "height": 185,
+      "count": 34515,
+      "role": "walk/2",
+      "scale": 0.6553398058252428,
+      "worldWidth": 275,
+      "worldHeight": 121,
+      "anchor": {
+        "x": 0,
+        "y": 1
+      }
+    },
+    {
+      "id": 4,
+      "left": 1344,
+      "top": 110,
+      "width": 414,
+      "height": 177,
+      "count": 35361,
+      "role": "walk/3",
+      "scale": 0.6553398058252428,
+      "worldWidth": 271,
+      "worldHeight": 116,
+      "anchor": {
+        "x": 0,
+        "y": 1
+      }
+    },
+    {
+      "id": 5,
+      "left": 25,
+      "top": 389,
+      "width": 420,
+      "height": 179,
+      "count": 35267,
+      "role": "mud/0",
+      "scale": 0.6553398058252428,
+      "worldWidth": 275,
+      "worldHeight": 117,
+      "anchor": {
+        "x": 0,
+        "y": 0.68
+      }
+    },
+    {
+      "id": 7,
+      "left": 463,
+      "top": 395,
+      "width": 428,
+      "height": 173,
+      "count": 37833,
+      "role": "mud/1",
+      "scale": 0.6553398058252428,
+      "worldWidth": 280,
+      "worldHeight": 113,
+      "anchor": {
+        "x": 0,
+        "y": 0.68
+      }
+    },
+    {
+      "id": 8,
+      "left": 899,
+      "top": 401,
+      "width": 431,
+      "height": 167,
+      "count": 38358,
+      "role": "mud/2",
+      "scale": 0.6553398058252428,
+      "worldWidth": 282,
+      "worldHeight": 109,
+      "anchor": {
+        "x": 0,
+        "y": 0.68
+      }
+    },
+    {
+      "id": 6,
+      "left": 1349,
+      "top": 389,
+      "width": 420,
+      "height": 179,
+      "count": 36739,
+      "role": "mud/3",
+      "scale": 0.6553398058252428,
+      "worldWidth": 275,
+      "worldHeight": 117,
+      "anchor": {
+        "x": 0,
+        "y": 0.68
+      }
+    },
+    {
+      "id": 9,
+      "left": 13,
+      "top": 669,
+      "width": 427,
+      "height": 161,
+      "count": 28727,
+      "role": "raft/0",
+      "scale": 0.6553398058252428,
+      "worldWidth": 280,
+      "worldHeight": 106,
+      "anchor": {
+        "x": 0,
+        "y": 0.62
+      }
+    },
+    {
+      "id": 12,
+      "left": 459,
+      "top": 674,
+      "width": 427,
+      "height": 154,
+      "count": 29814,
+      "role": "raft/1",
+      "scale": 0.6553398058252428,
+      "worldWidth": 280,
+      "worldHeight": 101,
+      "anchor": {
+        "x": 0,
+        "y": 0.62
+      }
+    },
+    {
+      "id": 10,
+      "left": 894,
+      "top": 671,
+      "width": 431,
+      "height": 159,
+      "count": 29238,
+      "role": "raft/2",
+      "scale": 0.6553398058252428,
+      "worldWidth": 282,
+      "worldHeight": 104,
+      "anchor": {
+        "x": 0,
+        "y": 0.62
+      }
+    },
+    {
+      "id": 11,
+      "left": 1337,
+      "top": 672,
+      "width": 429,
+      "height": 146,
+      "count": 29172,
+      "role": "raft/3",
+      "scale": 0.6553398058252428,
+      "worldWidth": 281,
+      "worldHeight": 96,
+      "anchor": {
+        "x": 0,
+        "y": 0.62
+      }
+    }
+  ]
+}

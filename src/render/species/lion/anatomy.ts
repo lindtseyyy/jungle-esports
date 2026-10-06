@@ -1,0 +1,20 @@
+import type { Anatomy } from '../types';
+export const anatomy: Anatomy = {
+  name: 'lion',
+  coat: '#BD8B4D',
+  shadow: '#705030',
+  belly: '#DFC398',
+  height: 1,
+  length: 146,
+  head: [-65, -83],
+  headScale: 0.9,
+  shoulder: [-44, -65],
+  hip: [49, -62],
+  upper: 33,
+  lower: 29,
+  paw: 12,
+  legWidth: 15,
+  tail: 92,
+  tailBones: 4,
+  strideLength: 165,
+};

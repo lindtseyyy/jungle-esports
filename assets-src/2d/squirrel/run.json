@@ -1,0 +1,38 @@
+{
+  "name": "squirrel",
+  "generator": "Higgsfield",
+  "model": "seedream_5_0_flash",
+  "jobId": "308f1247-c0d2-45aa-a1b8-0225f3b7169d",
+  "frames": 11,
+  "sourceWidth": 1336,
+  "sourceHeight": 660,
+  "groundY": 640,
+  "direction": "left",
+  "loop": true,
+  "frameDelayMs": 50,
+  "files": [
+    "run/run_00.png",
+    "run/run_01.png",
+    "run/run_02.png",
+    "run/run_03.png",
+    "run/run_04.png",
+    "run/run_05.png",
+    "run/run_06.png",
+    "run/run_07.png",
+    "run/run_08.png",
+    "run/run_09.png",
+    "run/run_10.png"
+  ],
+  "keyedPixels": 3206185,
+  "sourceSheetSize": {
+    "width": 2816,
+    "height": 1584
+  },
+  "processing": "Green chroma key and edge despill; complete animal components assigned to the 4×3 grid with padding to preserve tails crossing nominal cell lines; one fixed scale and translation for all 11 frames.",
+  "prompt": "Edit this 11-frame SQUIRREL running sprite sheet. Fix ONLY THE TAIL CONSISTENCY. In EVERY SINGLE frame the squirrel must have the SAME very large fluffy thick russet plume tail with cream inner curl, like the large fluffy tail in the first four frames. Replace the thin bare lion-like tails in all of the middle and bottom rows with the large fluffy squirrel tail. No frame may have a thin or short tail. The fluffy tail naturally curves and follows the changing run pose. Keep all eleven existing body poses, face, proportions, leg positions, cartoon outlines, colours, 4-column 3-row layout, empty final cell and green background unchanged. Keep tail inside each cell with padding. All 11 frames must be visibly the SAME squirrel with a bushy tail. Plain pure green chroma background, no text.",
+  "initialGeneration": {
+    "model": "seedream_v5_lite",
+    "jobId": "2bcfe5ae-5b14-4beb-93ae-5fad43a39428",
+    "prompt": "REPLACE EVERY LION in the reference with a maroon and russet SQUIRREL, cream belly, small round ears, short agile body, small forepaws, powerful hind legs, a huge fluffy curved squirrel tail flowing behind it. No mane, no lion face, no feline body. There must be ZERO LIONS in the result. The new animal must be unmistakably SQUIRREL in ALL eleven poses.\nCreate a traditional hand-painted 2D CARTOON running animation sprite sheet matching the reference art: thin dark outlines, warm fur, painterly cel shadows, cream highlights, darker far-side limbs, expressive animated face. Use the reference ONLY for its 11 sequential running poses and 4-column by 3-row layout. Eleven animals total, each the same individual in successive leg positions. Last cell, bottom right, EMPTY. Read left to right, top to bottom. Each of the 12 cells is exactly equal sized. No grid or labels.\nAll face LEFT in strict side view, fixed size and horizontal center, fixed contact baseline, running in place. Full animal and tail inside each cell with generous margin. Distinct poses: extended airborne leap; forelegs descending; front contact; weight on front; legs gathered; compressed airborne tuck; rear legs reaching under; hind contact; hind push-off; forelegs reaching ahead; long extension returning to first. Natural body bounce, squash/stretch, fur and tail follow-through, four legs accounted for. Springy squirrel bound with a fluffy waving tail.\nBACKGROUND: completely flat pure chroma green #00FF00 everywhere outside the animals, including empty cell. No shadows, ground, texture, gradient, scenery, lettering, numbers or watermark. Sharp clean animal edges."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "lion/warthog": 0.384416958793571,
+  "lion/cheetah": 0.45368649318463444,
+  "lion/squirrel": 0.1454093768169565,
+  "lion/hyena": 0.5821232655695385,
+  "warthog/cheetah": 0.23653377967133293,
+  "warthog/squirrel": 0.28139425971766907,
+  "warthog/hyena": 0.435227940559147,
+  "cheetah/squirrel": 0.11393732791398978,
+  "cheetah/hyena": 0.39752947782144865,
+  "squirrel/hyena": 0.12709347152878722
+}

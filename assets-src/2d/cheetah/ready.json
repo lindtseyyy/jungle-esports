@@ -1,0 +1,22 @@
+{
+  "name": "cheetah",
+  "pose": "quadruped-ready-to-race",
+  "direction": "left",
+  "frames": 1,
+  "sourceWidth": 1784,
+  "sourceHeight": 881,
+  "bounds": {
+    "left": 142,
+    "top": 249,
+    "width": 1588,
+    "height": 560
+  },
+  "noseX": 142,
+  "groundY": 809,
+  "worldHeight": 106,
+  "generator": "OpenAI built-in image generator",
+  "prompt": "Use case: stylized-concept.\nAsset type: transparent 2D side-view game sprite, one static starting-line stance.\nPrimary request: Draw the exact same animal character from the supplied reference in a new grounded ready-to-race posture. The reference is for character identity, body proportions, colors, and illustration style only. Change the pose.\nComposition: strict left-facing side profile, whole animal including ears, paws, and tail inside the canvas with transparent margin. Head points left. All four feet rest on the SAME invisible horizontal ground line. Forelegs planted ahead of the shoulders, hind legs flexed beneath the hips, chest slightly lowered, weight leaned forward, attentive eyes looking down the track. The animal is motionless and poised to launch, not already running.\nStyle: match the supplied reference's 2D hand-drawn cartoon treatment, line weight, shading, fur markings, and colors. Preserve the same recognizable character and natural quadruped anatomy.\nBackground: actual transparent RGBA alpha, no background or ground.\nConstraints: one animal only; four anatomically clear legs and planted feet; no airborne limbs, motion streaks, dust, shadows, props, clothing, text, labels, border, or watermark. Do not make an upright biped, sitting pose, or front-facing portrait.\nSubject identity: slender golden cheetah, cream belly and muzzle, black solid spots, black tear marks, long spotted tail with black tip.",
+  "reference": "run/run_03.png",
+  "generatedFile": "exec-6388f364-0b56-4403-a338-b6218f81b94b.png",
+  "file": "ready/ready_00.png"
+}

@@ -1,0 +1,20 @@
+import type { Anatomy } from '../types';
+export const anatomy: Anatomy = {
+  name: 'squirrel',
+  coat: '#633647',
+  shadow: '#392633',
+  belly: '#E9CEA1',
+  height: 0.5,
+  length: 100,
+  head: [-48, -44],
+  headScale: 0.46,
+  shoulder: [-31, -28],
+  hip: [30, -26],
+  upper: 16,
+  lower: 12,
+  paw: 8,
+  legWidth: 7,
+  tail: 115,
+  tailBones: 8,
+  strideLength: 115,
+};

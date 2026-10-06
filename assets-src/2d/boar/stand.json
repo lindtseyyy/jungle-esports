@@ -1,0 +1,28 @@
+{
+  "name": "boar",
+  "generator": "OpenAI built-in image generator",
+  "tool": "image_gen",
+  "originalCharacterGenerator": "Higgsfield",
+  "pose": "upright-biped-stand",
+  "direction": "front",
+  "supportFeet": 2,
+  "frames": 1,
+  "sourceWidth": 1336,
+  "sourceHeight": 660,
+  "groundY": 640,
+  "files": [
+    "stand/stand_00.png",
+    "boar-standing.png"
+  ],
+  "reference": "/home/lindtseyxvii/Documents/Codex/2026-10-04/lo/work/sprite-cycles/previous-standing/boar/boar-standing.png",
+  "generatedSource": "boar-standing-generated.png",
+  "processing": "Preserve generated alpha; crop, scale to running-art height and center on baseline 640.",
+  "bounds": {
+    "left": 527,
+    "top": 121,
+    "width": 282,
+    "height": 519,
+    "count": 91720
+  },
+  "prompt": "Correct the provided cartoon animal's orientation. Create ONE full-body brown boar, standing upright on exactly TWO hind feet, facing DIRECTLY FRONT toward the viewer. The CAMERA is centered squarely in front: head, shoulders, chest, hips and both feet all face the camera. Both eyes, both ears and both sides of the face are clearly visible at matching scale. The muzzle projects toward the viewer. The belly is centered between the two shoulders. Two separate hind feet rest evenly on one baseline. Both forepaws or forehooves hang calmly beside the torso, clearly above the ground. Relaxed friendly post-race idle pose. Preserve the supplied character's species, palette, outlines, painterly 2D animated cartoon style and recognizable face. Chestnut brown boar with bristly fur, broad snout seen straight-on, a matching cream tusk visible on each side of its mouth, black cloven hooves, and a small tail behind the torso. No profile, side view, three-quarter turn, angled torso, turned head, four-foot stance, seated pose, running, human hands or clothing. One complete animal centered with generous empty margins, all ears, tail, feet and tusks intact. No extra characters, text, scenery, floor, shadow or sprite grid. True transparent background in every empty area, including between limbs. Full-height sprite on a wide canvas, with no border clipping."
+}

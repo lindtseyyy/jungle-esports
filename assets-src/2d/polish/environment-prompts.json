@@ -1,0 +1,14 @@
+{
+  "forest-v2": {
+    "prompt": "Use case: stylized-concept. Asset type: animated 2D jungle game backdrop. Reference image is the existing animal's ANIMATED hand-painted character style, NOT a request for photorealism.\nCreate a wide side-view forest background that looks like a traditional animated feature-film background painting. Clearly stylized trees, graceful simplified trunks with illustrated bark lines, layered rounded clusters of individual leaves, curving vines, designed fern fronds, painted rocks with stylized shaded planes. Rich but controlled detail, visible brushwork, clean organic silhouettes, warm golden highlights, lush olive and emerald greens, atmospheric blue-green layers in the distance. Everything should look drawn and painted, never photographic or realistic 3D.\nUpper 70% lush forest edge; lower 30% a flat empty horizontal ochre dirt clearing suitable for a side-on race. No winding path into depth. Keep forest boundary horizontal, no plants or rocks obstructing lower foreground. The animal reference's expressive cartoon visual identity should be evident in the environment. Texture and depth through painterly shading, not photographic microdetail. No characters, buildings, spectators, interface, text or border.",
+    "reference": "assets-src/2d/lion/ready/ready_00.png",
+    "mode": "built-in imagegen",
+    "selected": true
+  },
+  "materials-v2": {
+    "prompt": "Use case: stylized-concept. Asset type: four illustrated 2D environment texture tiles for an animated jungle racing game. Reference image establishes the animal's detailed ANIMATED CARTOON art style. Do not make photographic textures or realistic 3D surfaces.\nStrict square 2x2 grid, no gutters or lines or text. Each tile opaque and square.\nTop left: stylized ochre-brown forest soil with small hand-drawn roots, simplified pebbles, scattered leaf shapes and painted clumps, warm shaded earthy hues.\nTop right: illustrated horizontal log bark with broad flowing wood-grain lines, dark stylized splits, shaded facets and small green moss patches.\nBottom left: shaded forest ravine floor of clear illustrated little ferns, broad stylized leaves, painted mossy rocks, roots and deep teal shadows, multiple green shades, looks like an animated feature background painting, never a dark empty void.\nBottom right: animated forest grass and moss, clear designed tufts, little leafy plants and rounded pebbles, painterly olive and bright green highlights.\nVisible painterly strokes and appealing deliberate cartoon shapes. Rich shadows and highlights. Avoid photographic microdetail, realistic rendered materials, noise, text, characters and objects outside their tile.",
+    "reference": "assets-src/2d/lion/ready/ready_00.png",
+    "mode": "built-in imagegen",
+    "selected": true
+  }
+}

@@ -1,0 +1,20 @@
+import type { Anatomy } from '../types';
+export const anatomy: Anatomy = {
+  name: 'hyena',
+  coat: '#AA956E',
+  shadow: '#584D3C',
+  belly: '#CEC0A0',
+  height: 0.85,
+  length: 142,
+  head: [-69, -71],
+  headScale: 0.66,
+  shoulder: [-43, -65],
+  hip: [49, -46],
+  upper: 32,
+  lower: 27,
+  paw: 9,
+  legWidth: 14,
+  tail: 52,
+  tailBones: 4,
+  strideLength: 155,
+};

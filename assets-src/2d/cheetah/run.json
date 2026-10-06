@@ -1,0 +1,38 @@
+{
+  "name": "cheetah",
+  "generator": "Higgsfield",
+  "model": "seedream_5_0_flash",
+  "jobId": "0742397f-7731-47c0-9683-25c2835f1810",
+  "frames": 11,
+  "sourceWidth": 1336,
+  "sourceHeight": 660,
+  "groundY": 640,
+  "direction": "left",
+  "loop": true,
+  "frameDelayMs": 40,
+  "files": [
+    "run/run_00.png",
+    "run/run_01.png",
+    "run/run_02.png",
+    "run/run_03.png",
+    "run/run_04.png",
+    "run/run_05.png",
+    "run/run_06.png",
+    "run/run_07.png",
+    "run/run_08.png",
+    "run/run_09.png",
+    "run/run_10.png"
+  ],
+  "keyedPixels": 3773016,
+  "sourceSheetSize": {
+    "width": 2816,
+    "height": 1584
+  },
+  "processing": "Green chroma key and edge despill; complete animal components assigned to the 4×3 grid with padding to preserve tails crossing nominal cell lines; one fixed scale and translation for all 11 frames.",
+  "prompt": "CHEETAH ANATOMY CORRECTION: Remove the BLACK LION MANE completely from ALL ELEVEN cheetahs in this sprite sheet. A cheetah has NO MANE. Every frame must show a sleek short-haired spotted neck, clean small rounded ears, slim cheetah head with black tear marks, and a slender ringed tail ending in a BLACK TIP, not a fluffy tuft. Keep the eleven distinct existing running poses, four columns by three rows, same cartoon painting style, gold coat, cream underside, black spots, left-facing direction and green background. Preserve the same individual and stable markings across all frames. Fix framing: the COMPLETE nose, forepaws and tail must be visible inside EVERY cell, including the first frame. Reduce each character slightly to leave clear green padding on all four sides of its own equal cell; no clipping or crossing cells. Last bottom-right cell stays empty. Pure flat green outside the animals. No lettering or labels.",
+  "initialGeneration": {
+    "model": "seedream_v5_lite",
+    "jobId": "511c5f03-02c1-470a-bd1a-e1e29e006ce0",
+    "prompt": "REPLACE EVERY LION in the reference with a golden tan CHEETAH, cream underside, small stable black spots, black facial tear marks, round ears, lean flexible torso, long slender legs, long slim tail with dark rings at the tip. No mane. Preserve spot pattern across frames. There must be ZERO LIONS in the result. The new animal must be unmistakably CHEETAH in ALL eleven poses.\nCreate a traditional hand-painted 2D CARTOON running animation sprite sheet matching the reference art: thin dark outlines, warm fur, painterly cel shadows, cream highlights, darker far-side limbs, expressive animated face. Use the reference ONLY for its 11 sequential running poses and 4-column by 3-row layout. Eleven animals total, each the same individual in successive leg positions. Last cell, bottom right, EMPTY. Read left to right, top to bottom. Each of the 12 cells is exactly equal sized. No grid or labels.\nAll face LEFT in strict side view, fixed size and horizontal center, fixed contact baseline, running in place. Full animal and tail inside each cell with generous margin. Distinct poses: extended airborne leap; forelegs descending; front contact; weight on front; legs gathered; compressed airborne tuck; rear legs reaching under; hind contact; hind push-off; forelegs reaching ahead; long extension returning to first. Natural body bounce, squash/stretch, fur and tail follow-through, four legs accounted for. Strong spine flexion in a fast cheetah gallop.\nBACKGROUND: completely flat pure chroma green #00FF00 everywhere outside the animals, including empty cell. No shadows, ground, texture, gradient, scenery, lettering, numbers or watermark. Sharp clean animal edges."
+  }
+}

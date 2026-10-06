@@ -1,0 +1,25 @@
+{
+  "name": "Jungle Esports",
+  "short_name": "Jungle",
+  "description": "Back your beast. Chase the crown. Free virtual-coin jungle racing.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#101914",
+  "theme_color": "#101914",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

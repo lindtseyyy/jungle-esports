@@ -1,0 +1,28 @@
+{
+  "name": "lion",
+  "generator": "OpenAI built-in image generator",
+  "tool": "image_gen",
+  "originalCharacterGenerator": "the existing project run-cycle artwork",
+  "pose": "upright-biped-stand",
+  "direction": "front",
+  "supportFeet": 2,
+  "frames": 1,
+  "sourceWidth": 1336,
+  "sourceHeight": 660,
+  "groundY": 640,
+  "files": [
+    "stand/stand_00.png",
+    "lion-standing.png"
+  ],
+  "reference": "/home/lindtseyxvii/Codes/jungle-esports/assets-src/2d/lion/run/run_00.png",
+  "generatedSource": "lion-standing-generated.png",
+  "processing": "Preserve generated alpha; crop, scale to running-art height and center on baseline 640.",
+  "bounds": {
+    "left": 478,
+    "top": 50,
+    "width": 381,
+    "height": 590,
+    "count": 114605
+  },
+  "prompt": "Use case: precise-object-edit. Asset type: a transparent cartoon game sprite for the after-race display. Input image: the existing lion run-cycle character, used as the identity and drawing-style reference. Create ONE full-body upright lion standing on exactly TWO hind feet and facing DIRECTLY FRONT toward the viewer. Camera squarely centered in front; the head, muzzle, shoulders, cream chest, hips and both hind feet all face the camera. Both eyes and both sides of the face clearly visible at equal scale. Preserve the reference's golden yellow fur, dark brown enormous flowing mane, pale cream muzzle and belly, dark outlines, long tufted tail and traditional hand-painted animated cartoon character. Relaxed friendly confident expression, with natural animal facial features. Both hind feet are separate and evenly planted on a common baseline; both forepaws hang loosely beside the chest or belly, clearly above ground, with animal paw shapes. Tail visible behind the torso, entirely off the ground. Genuine transparent background and clean anti-aliased alpha around the fur and between the limbs. One complete centered character on a wide canvas with generous empty margins; every ear, paw, mane and tail tip fully visible. No profile, side view, three-quarter turn, turned head, angled body, four-foot stance, sitting, walking, running, dancing, clothes, human hands, scenery, ground, shadows, extra animals, text or watermark."
+}

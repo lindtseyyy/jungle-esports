@@ -1,0 +1,20 @@
+import type { Anatomy } from '../types';
+export const anatomy: Anatomy = {
+  name: 'cheetah',
+  coat: '#CFAB62',
+  shadow: '#81613B',
+  belly: '#EFE0B9',
+  height: 0.9,
+  length: 166,
+  head: [-87, -83],
+  headScale: 0.49,
+  shoulder: [-52, -66],
+  hip: [57, -64],
+  upper: 36,
+  lower: 28,
+  paw: 9,
+  legWidth: 8,
+  tail: 119,
+  tailBones: 4,
+  strideLength: 225,
+};
